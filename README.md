@@ -1,5 +1,4 @@
-# degen-signals
-Fully integrated tracker! For degenerate traders alike!
+
 import streamlit as st
 import pandas as pd
 import numpy as np
